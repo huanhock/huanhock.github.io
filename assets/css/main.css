@@ -210,6 +210,10 @@ input, select, textarea {
 		letter-spacing: 0.5rem;
 	}
 
+		h2.face {
+			text-align: center;
+		}
+
 	h3 {
 		font-size: 1rem;
 	}
